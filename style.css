@@ -33,6 +33,11 @@ li > * {
   display: block;
   text-align: right;
 }
+.header-title {
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
 .header-image {
   width: 100%;
 }
